@@ -1,1 +1,0 @@
-# File-Manager-By-Redman-2.0
